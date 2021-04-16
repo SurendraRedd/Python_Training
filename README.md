@@ -9,3 +9,7 @@ This Repository contains the details of the python concepts, day wise learnings 
 - Python is a interpreter means if there is any issue in the code or syntax will throw the error immediately and next lines of code will not be executed.
 - Python is a dynamically typed means no need to define the type int,string,char n =10;fl=10.234
 - Python has integration to many packages which makes so powerful.
+
+# ✍️ How to start (Installation)
+
+### Local - Single version
