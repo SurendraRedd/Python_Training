@@ -1,3 +1,5 @@
+Notion Link - https://www.notion.so/learn2020/Python-Training-70b7d88bcabc4638a917013e30fd842d
+
 # Python_Training
 This Repository contains the details of the python concepts, day wise learnings and notebooks which helps to learn python.
 
