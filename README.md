@@ -1,6 +1,10 @@
 Notion Link - https://www.notion.so/learn2020/Python-Training-70b7d88bcabc4638a917013e30fd842d
 
-# Python_Training
+# ✍️ Prerequisite
+- Github Account
+- Notion
+
+# 🐍 Python_Training
 This Repository contains the details of the python concepts, day wise learnings and notebooks which helps to learn python.
 
 # ✍️ What is Python?
@@ -30,6 +34,16 @@ This Repository contains the details of the python concepts, day wise learnings 
 - Google Colab
 - Deep Note
 - Repl(Read-Evaluate-Print-loop)it [https://replit.com/~](https://replit.com/~)
+
+### Mobile App
+- Programming Hero
+
+### IDE
+- Visual Studio Code Editor(best)
+- Py Charm
+- Sublime 
+- Atom
+- Spider
 
 ### Virtual Environment
 - python -m venv venv(name of the environment)
