@@ -16,11 +16,11 @@ This Repository contains the details of the python concepts, day wise learnings 
 
 # ✍️ How to start (Installation)
 
-### Local - Single version
+### 👉 Local - Single version
 - Download the python3
 - Select the user defined directory and select the path
 
-### Local - Multiple version (Not Recommended)
+### 👉 Local - Multiple version (Not Recommended)
 - Install python 3.6 in user defined folder C:\Python36.
 - Install python 3.7 in user defined folder C:\Python37.
 - PYTHON36_HOME: C:\Python36, PYTHON37_HOME: C:\Python37
@@ -28,22 +28,33 @@ This Repository contains the details of the python concepts, day wise learnings 
 - C:\Python36\python.exe → C:\Python36\python36.exe,C:\Python37\python.exe → C:\Python37\python37.exe
 - python36 -m pip install package,python37 -m pip install package
 
-### Notebooks (Anaconda)
+### 👉 Notebooks (Anaconda)
 - Jupyter  Notebook (ML & Data Analytics) — Run python html
 - Jupyter Lab (ML & Data Analytics)
 - Google Colab
 - Deep Note
 - Repl(Read-Evaluate-Print-loop)it [https://replit.com/~](https://replit.com/~)
 
-### Mobile App
+### 👉 Mobile App
 - Programming Hero
 
-### IDE
+### 👉 IDE
 - Visual Studio Code Editor(best)
 - Py Charm
 - Sublime 
 - Atom
 - Spider
 
-### Virtual Environment
+### 👉 Virtual Environment
 - python -m venv venv(name of the environment)
+
+### Learning Plan (Tentative)
+| Topics                                     | No of Days |
+|--------------------------------------------|------------|
+| Installation,Variables & Types             | 1          |
+| Basic String Operations & String Formatting| 1          |
+| Lists, Dictionaries & Sets                 | 2          |
+| Basic Operators, Conditions, Loops         | 1          |
+| Functions, List Comprehensions             | 1          |
+| Classes & Objects                          | 2          |
+
