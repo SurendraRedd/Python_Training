@@ -18,3 +18,12 @@ This Repository contains the details of the python concepts, day wise learnings 
 
 - Download the python3
 - Select the user defined directory and select the path
+
+### Local - Multiple version (Not Recommended)
+
+- Install python 3.6 in user defined folder C:\Python36.
+- Install python 3.7 in user defined folder C:\Python37.
+- PYTHON36_HOME: C:\Python36, PYTHON37_HOME: C:\Python37
+- Path: %PYTHON36_HOME%;%PYTHON36_HOME%\Scripts;%PYTHON37_HOME%;%PYTHON37_HOME%\Scripts;
+- C:\Python36\python.exe → C:\Python36\python36.exe,C:\Python37\python.exe → C:\Python37\python37.exe
+- python36 -m pip install package,python37 -m pip install package
