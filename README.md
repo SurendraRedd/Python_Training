@@ -15,3 +15,6 @@ This Repository contains the details of the python concepts, day wise learnings 
 # ✍️ How to start (Installation)
 
 ### Local - Single version
+
+- Download the python3
+- Select the user defined directory and select the path
