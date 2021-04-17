@@ -3,8 +3,6 @@ Notion Link - https://www.notion.so/learn2020/Python-Training-70b7d88bcabc4638a9
 # Python_Training
 This Repository contains the details of the python concepts, day wise learnings and notebooks which helps to learn python.
 
-# Day 1
-
 # ✍️ What is Python?
 
 - Python is a programming language and simple to use. It is used to develop GUI, Web App development(Flask,Django,Streamlit,Bottle), API Development(SOAP,REST,GraphQL..), Testing applications(Selenium,Robotframework,Cypress.io(Angular, node, react,endtoend js,RPA,Katlon,pytest,BDD,Cucumber,unittest), Machine Learning, Data Analytics (pandas,ploty,dash),Kiwi(mobile app),Appium...etc
