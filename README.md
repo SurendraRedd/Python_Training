@@ -6,7 +6,7 @@
 This Repository contains the details of the python concepts, day wise learnings and notebooks which helps to learn python.
 
 # ✍️ Syllabus?
-- [Syllabus][]
+- [Syllabus][https://github.com/SurendraRedd/Python_Training/blob/main/Syllabus.md]
 
 # ✍️ What is Python?
 
