@@ -34,14 +34,15 @@
 - [ ] Numeric Types
 - [ ] Different Types of Integers
 
-### Input Function and Math Module In Python
-
-### Eval() Function, Command line arguments and various print() Options
+### Others
+- [ ] Input Function and Math Module In Python
+- [ ] Eval() Function, Command line arguments and various print() Options
 
 ### Strings
 - [ ] Defined a single line string
 - [ ] Converting Between Int Types
 - [ ] Immutable And Mutable
+- [ ] 
 
 ### Numbers
 - [ ] Int
