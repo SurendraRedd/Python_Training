@@ -40,9 +40,13 @@
 
 ### Strings
 - [ ] Defined a single line string
-- [ ] Converting Between Int Types
-- [ ] Immutable And Mutable
-- [ ] 
+- [ ] Defined a Multiple Line string
+- [ ] Slicing
+- [ ] Modify String
+- [ ] String Concatenation
+- [ ] String Formatting
+- [ ] Escape Character
+- [ ] String Methods
 
 ### Numbers
 - [ ] Int
@@ -71,3 +75,9 @@
 - [ ] Membership Operators
 - [ ] Precedence and Associativity
 - [ ] Boolean Operators
+
+### Python Flow Control
+- [ ] If-else
+- [ ] For Loop
+- [ ] While Loop
+- [ ] Break & Continue Pass
