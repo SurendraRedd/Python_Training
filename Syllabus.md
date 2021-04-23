@@ -33,6 +33,13 @@
 - [ ] Basic Data Types in Python
 - [ ] Numeric Types
 - [ ] Different Types of Integers
+
+### Input Function and Math Module In Python
+
+### Eval() Function, Command line arguments and various print() Options
+
+### Strings
+- [ ] Defined a single line string
 - [ ] Converting Between Int Types
 - [ ] Immutable And Mutable
 
@@ -48,3 +55,18 @@
 
 ### Operators
 - [ ] Relational Operators
+- [ ] Relational Operators with Strings
+- [ ] Chaining of Relational Operators
+- [ ] Logical Operators
+- [ ] Special Behaviour of == and! =, ===
+- [ ] How Logical Operators Work with Boolean Types?
+- [ ] How Logical Operators Work with Non-Boolean Types?
+- [ ] Introduction to Bitwise Operators
+- [ ] Six Types of Bitwise Operators
+- [ ] Assignment Operators
+- [ ] Various Types of Assignment Operators
+- [ ] Compound Operators
+- [ ] Identity Operators
+- [ ] Membership Operators
+- [ ] Precedence and Associativity
+- [ ] Boolean Operators
