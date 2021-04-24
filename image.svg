@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg id="image" width="360px" height="480px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <style type="text/css">
+    svg {
+      background-color: hsl(150, 50%, 50%);
+    }
+    
+    circle.load {
+      fill: none;
+      stroke: black;
+      stroke-linecap: round;
+    }
+    
+    text {
+      text-anchor: start;
+      font-size: 18px;
+      font-weight: 800;
+      font-family: monospace;
+    }
+    
+    .loading {
+      animation: wiggle 2s infinite;
+    }
+    
+    @keyframes wiggle {
+      0%, 50%, 100% {
+        transform: translate(0, 0);
+      }
+
+      20% {
+        transform: translate(0, -5px);
+      }
+      
+      35% {
+        transform: translate(0, 3px);
+      }
+      
+      45% {
+        transform: translate(0, -2px);
+      }
+    }
+
+    #L {animation-delay: 0.00s;}
+    #o {animation-delay: 0.10s;}
+    #a {animation-delay: 0.20s;}
+    #d {animation-delay: 0.30s;}
+    #i {animation-delay: 0.40s;}
+    #n {animation-delay: 0.50s;}
+    #g {animation-delay: 0.60s;}
+    #d1 {animation-delay: 0.70s;}
+    #d2 {animation-delay: 0.80s;}
+    #d3 {animation-delay: 0.90s;}
+
+  </style>
+  <defs>
+    <!-- ! Gradients -->
+    <!-- ! Filters -->
+    <!-- ! Symbols -->
+    <!-- ! Patterns -->
+  </defs>
+
+  <!-- ! Circles -->
+  <g id="circles">
+    <circle class="load" cx="180" cy="240" r="8.00" stroke-width="6.49" stroke-dasharray="12.72,12.41">
+      <animate attributeName="stroke-dashoffset" repeatCount="indefinite" values="0;-25.13" dur="0.73s" begin="-0.15s" />
+    </circle>
+    <circle class="load" cx="180" cy="240" r="16.00" stroke-width="4.61" stroke-dasharray="13.00,12.14">
+      <animate attributeName="stroke-dashoffset" repeatCount="indefinite" values="0;25.13" dur="1.41s" begin="-0.45s" />
+    </circle>
+    <circle class="load" cx="180" cy="240" r="24.00" stroke-width="7.32" stroke-dasharray="13.92,11.21">
+      <animate attributeName="stroke-dashoffset" repeatCount="indefinite" values="0;25.13" dur="1.63s" begin="-0.51s" />
+    </circle>
+    <circle class="load" cx="180" cy="240" r="32.00" stroke-width="4.03" stroke-dasharray="32.39,17.88">
+      <animate attributeName="stroke-dashoffset" repeatCount="indefinite" values="0;-50.27" dur="1.33s" begin="-1.07s" />
+    </circle>
+    <circle class="load" cx="180" cy="240" r="40.00" stroke-width="4.14" stroke-dasharray="11.50,13.64">
+      <animate attributeName="stroke-dashoffset" repeatCount="indefinite" values="0;25.13" dur="3.38s" begin="-2.97s" />
+    </circle>
+    <circle class="load" cx="180" cy="240" r="48.00" stroke-width="2.51" stroke-dasharray="17.50,12.65">
+      <animate attributeName="stroke-dashoffset" repeatCount="indefinite" values="0;-30.16" dur="1.58s" begin="-1.26s" />
+    </circle>
+  </g>
+
+  <!-- ! Loading ... -->
+  <g id="text" transform="translate(145,320)">
+    <text x="0" y="16" id="L" class="loading">L</text>
+    <text x="10" y="16" id="o" class="loading">o</text>
+    <text x="20" y="16" id="a" class="loading">a</text>
+    <text x="30" y="16" id="d" class="loading">d</text>
+    <text x="40" y="16" id="i" class="loading">i</text>
+    <text x="50" y="16" id="n" class="loading">n</text>
+    <text x="60" y="16" id="g" class="loading">g</text>
+    <text x="70" y="16" id="d1" class="loading">.</text>
+    <text x="80" y="16" id="d2" class="loading">.</text>
+    <text x="90" y="16" id="d3" class="loading">.</text>
+  </g>
+
+</svg>
