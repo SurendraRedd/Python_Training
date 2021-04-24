@@ -1,3 +1,5 @@
+<img align="right" src="https://github.com/SurendraRedd/Python_Training/blob/main/image.svg" />
+
 # ✍️ Prerequisite
 - Github Account
 - DeepNote Account
