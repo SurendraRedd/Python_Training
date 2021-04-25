@@ -61,4 +61,3 @@ This Repository contains the details of the python concepts, day wise learnings 
 | Basic Operators, Conditions, Loops         | 1          |
 | Functions, List Comprehensions             | 1          |
 | Classes & Objects                          | 2          |
-
