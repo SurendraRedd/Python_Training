@@ -81,3 +81,9 @@
 - [ ] For Loop
 - [ ] While Loop
 - [ ] Break & Continue Pass
+
+### Python Data Structures
+- [ ] Lists
+- [ ] Tuples
+- [ ] Sets
+- [ ] Dictionaries
