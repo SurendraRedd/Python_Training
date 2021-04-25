@@ -87,3 +87,9 @@
 - [ ] Tuples
 - [ ] Sets
 - [ ] Dictionaries
+
+### Python Functions
+- [ ] Global & Local Variables
+- [ ] Function Argument
+- [ ] Function Recursion
+- [ ] Lambda Function
