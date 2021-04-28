@@ -11,5 +11,6 @@ jobs:
     steps:
     - uses: actions/first-interaction@v1
       with:
+        repo-token: ${{ secrets.TOKEN }}
         issue-message: '🙏 Thanks for creating the issue. We will look in to the issue.'
         pr-message: '🙏 Thanks for creating the pull request.'
