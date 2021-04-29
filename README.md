@@ -1,5 +1,10 @@
 <img align="right" src="https://github.com/SurendraRedd/Python_Training/blob/main/image.svg" />
 
+<a href='https://github.com/marketplace/actions/quote-readme'>
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
+</a>
+
 # ✍️ Prerequisite
 - Github Account
 - DeepNote Account
