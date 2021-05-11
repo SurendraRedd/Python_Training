@@ -1,3 +1,5 @@
+<img src="https://assets.website-files.com/60645cf8461d6e83b787930a/6066defaa6c998f69f8033bb_waving.svg">
+
 <img align="right" src="https://github.com/SurendraRedd/Python_Training/blob/main/image.svg" />
 
 <a href='https://github.com/marketplace/actions/quote-readme'>
