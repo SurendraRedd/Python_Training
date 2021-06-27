@@ -1,1 +1,2 @@
 
+Modified the text file to test the Next release plugin.
