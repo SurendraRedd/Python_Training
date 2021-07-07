@@ -15,3 +15,12 @@ numbers = range(81,101)
 for _ in range(3):
     print(sample(numbers, 5))
 ```
+## Tempfile fetching
+```
+export TMPDIR=/tmp
+import os
+os.getenv("TMPDIR")
+
+import tempfile
+tempfile.gettempdir()
+```
