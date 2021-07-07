@@ -29,3 +29,20 @@ tempfile.gettempdir()
 for s in 'pybites py@bites pybit.es pybitesl',split():
     print(s, s.isalnum())
 ```
+
+## Using next value
+```
+import itertools
+seq = itertools.count(11)
+next(seq)
+next(seq)
+
+# Using step
+seq = itertools.count(6, step=3)
+for _ in range(3):
+    next(seq)
+    
+seq = itertools.count(3.75, step=0.25)
+for _ in range(3):
+    next(seq)
+```
