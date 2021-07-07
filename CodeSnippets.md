@@ -46,3 +46,19 @@ seq = itertools.count(3.75, step=0.25)
 for _ in range(3):
     next(seq)
 ```
+
+## Reading the csv file
+```
+import csv
+with open('names.csv') as csvfile:
+    reader = csv.DictReader(csvfile)
+    for row in reader:
+        print(row)
+```
+
+## Get Close Matches
+```
+from difflib import get_close_matches
+names = ['julian', 'pybites', 'bob', 'tim', 'python', 'sara', 'james', 'ana']
+get_close_matches('pythonista', names)
+```
