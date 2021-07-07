@@ -24,3 +24,8 @@ os.getenv("TMPDIR")
 import tempfile
 tempfile.gettempdir()
 ```
+## Calling isalnum() on a string returns True if all the characters are alphanumeric [a-z0-9]
+```
+for s in 'pybites py@bites pybit.es pybitesl',split():
+    print(s, s.isalnum())
+```
