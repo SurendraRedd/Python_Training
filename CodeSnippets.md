@@ -62,3 +62,21 @@ from difflib import get_close_matches
 names = ['julian', 'pybites', 'bob', 'tim', 'python', 'sara', 'james', 'ana']
 get_close_matches('pythonista', names)
 ```
+
+## Password hiding
+```
+from getpass import getpass
+password = getpass("and ypur password? ")
+print(password)
+```
+
+## takewhile method
+```
+from itertools import takewhile
+s = '1a2b3c4d5e6f'
+
+def test_func(ch):
+    return ch.isdigit() or ch in "ab"
+
+list(takewhile(test_func,s))
+```
