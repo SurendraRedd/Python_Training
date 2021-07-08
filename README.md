@@ -58,11 +58,11 @@ This Repository contains the details of the python concepts, day wise learnings 
 - python -m venv venv(name of the environment)
 
 ### Learning Plan (Tentative)
-| Topics                                     | No of Days |
-|--------------------------------------------|------------|
-| Installation,Variables & Types             | 1          |
-| Basic String Operations & String Formatting| 1          |
-| Lists, Dictionaries & Sets                 | 2          |
-| Basic Operators, Conditions, Loops         | 1          |
-| Functions, List Comprehensions             | 1          |
-| Classes & Objects                          | 2          |
+| Topics                                     | No of Days | Links      |
+|--------------------------------------------|------------|------------|
+| Installation,Variables & Types             | 1          |            |
+| Basic String Operations & String Formatting| 1          |            |
+| Lists, Dictionaries & Sets                 | 2          |            |
+| Basic Operators, Conditions, Loops         | 1          |            |
+| Functions, List Comprehensions             | 1          |https://www.freecodecamp.org/news/list-comprehension-in-python/ |
+| Classes & Objects                          | 2          |            |
