@@ -2,6 +2,8 @@
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=SurendraRedd&repo=github-visitors-badge&countColor=%237B1E7A)
 
+[![Project Card](https://project-card-app.herokuapp.com/project_card/SurendraRedd/Python_Training)](https://github.com/SurendraRedd/Python_Training)
+
 <img align="right" src="https://github.com/SurendraRedd/Python_Training/blob/main/image.svg" />
 
 <a href='https://github.com/marketplace/actions/quote-readme'>
