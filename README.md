@@ -136,12 +136,15 @@ Git Commands
 | `git log --oneline` | View changes (briefly) |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
 
+<script id="asciicast-24WYzVvXWnAG093bosPqHauhB" src="https://asciinema.org/a/24WYzVvXWnAG093bosPqHauhB.js" async></script>
+
 ### Google Education
 
 https://developers.google.com/edu/python/lists
 
 <a href="https://www.buymeacoffee.com/surendra1985" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 
 
 # References
