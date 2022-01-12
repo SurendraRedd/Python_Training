@@ -1,2 +1,2 @@
 language = "python3"
-run = "todocli.py --help"
+run = "cd ./TaskManager && pip3 install -r requirements.txt && python3 todocli.py show"

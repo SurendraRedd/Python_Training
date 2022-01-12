@@ -9,33 +9,33 @@ console = Console()
 app = typer.Typer()
 
 
-@app.command(short_help='adds an item')
+@app.command(short_help='adds new to do item')
 def add(task: str, category: str):
     typer.echo(f"adding {task}, {category}")
     todo = Todo(task, category)
     insert_todo(todo)
     show()
 
-@app.command()
+@app.command(short_help='deletes the item')
 def delete(position: int):
     typer.echo(f"deleting {position}")
     # indices in UI begin at 1, but in database at 0
     delete_todo(position-1)
     show()
 
-@app.command()
+@app.command(short_help='Modify the to do item')
 def update(position: int, task: str = None, category: str = None):
     typer.echo(f"updating {position}")
     update_todo(position-1, task, category)
     show()
 
-@app.command()
+@app.command(short_help='Done/Completed Todo Item')
 def complete(position: int):
     typer.echo(f"complete {position}")
     complete_todo(position-1)
     show()
 
-@app.command()
+@app.command(short_help='Displays all the to do items')
 def show():
     tasks = get_all_todos()
     console.print("[bold magenta]Todos[/bold magenta]!", "💻")
