@@ -1,2 +1,0 @@
-language = "python3"
-run = "cd ./FetchAudio && pip3 install -r requirements.txt && python3 extract_audio.py"
