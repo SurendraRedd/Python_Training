@@ -34,10 +34,7 @@ def insert_todo(todo: Todo):
 def get_all_todos() -> List[Todo]:
     c.execute('select * from todos')
     results = c.fetchall()
-    todos = []
-    for result in results:
-        todos.append(Todo(*result))
-    return todos
+    return [Todo(*result) for result in results]
 
 
 def delete_todo(position):

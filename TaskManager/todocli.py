@@ -48,9 +48,7 @@ def show():
 
     def get_category_color(category):
         COLORS = {'Learn': 'cyan', 'YouTube': 'red', 'Sports': 'cyan', 'Study': 'green'}
-        if category in COLORS:
-            return COLORS[category]
-        return 'white'
+        return COLORS[category] if category in COLORS else 'white'
 
     for idx, task in enumerate(tasks, start=1):
         c = get_category_color(task.category)

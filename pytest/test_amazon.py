@@ -6,7 +6,7 @@ from selenium.webdriver.support.select import Select
 def test_amazon():
     driver = webdriver.Chrome(ChromeDriverManager().install())
     #driver = webdriver.Chrome(executable_path =r'C:/pytest_selenium/chromedriver_win32/chromedriver.exe')
-    driver.get("https://www.amazon.in/") 
+    driver.get("https://www.amazon.in/")
     action = ActionChains(driver)
     firstLevelMenu = driver.find_element_by_xpath('//*[@id="nav-link-accountList-nav-line-1"]')
     action.move_to_element(firstLevelMenu).perform()
@@ -29,6 +29,6 @@ def test_amazon():
     #get selected item with method first_selected_option
     o= s.first_selected_option
     #text method for selected option text
-    print("Selected option is: "+ o.text)
+    print(f"Selected option is: {o.text}")
 
     driver.close()

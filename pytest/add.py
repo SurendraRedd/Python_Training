@@ -7,7 +7,7 @@ class Amount(object):
 
     def spend_cash(self, amount):
         if self.balance < amount:
-            raise Lowbalance('{}'.format(amount))
+            raise Lowbalance(f'{amount}')
         self.balance -= amount
 
     def add_cah(self,amount):
